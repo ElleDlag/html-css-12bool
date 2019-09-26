@@ -1,0 +1,9 @@
+.container{
+    height:calc(100vh / 5);
+    text-align:center;
+}
+.container>div{
+    border:1px solid violet;
+    height:100%;
+    line-height:calc(100vh / 5);
+}
