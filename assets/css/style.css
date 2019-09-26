@@ -7,3 +7,24 @@
     height:100%;
     line-height:calc(100vh / 5);
 }
+.xs-pd{
+    padding:5px;
+}
+.container:nth-child(2)>div{
+    background: #f7bfbf
+}
+.container:nth-child(3)>div{
+    background: #b8e599
+}
+.container:nth-child(4)>div{
+    background: #b6e4f0
+}
+.container:nth-child(5)>div{
+    background: #ffcc89
+}
+.container:nth-child(6)>div{
+    background: #daa2ff
+}
+.container:nth-child(6)>div>.container>div{
+    background: #b444ff
+}
